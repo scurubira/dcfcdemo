@@ -1,0 +1,12 @@
+{
+  "name": "duquefc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server public --port=3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
